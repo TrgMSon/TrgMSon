@@ -1,4 +1,8 @@
-# Truong Minh Son
+<a href="#"><img width="100%" height="auto" src="./logo/header.png" height="175px"/></a>
+
+
+
+# TrgMSon
 Hello,
 
 My name is Truong Minh Son, and I’m from Vietnam. I’m currently taking my first steps into the world of programming, and I’m excited about the journey ahead.
